@@ -1,4 +1,4 @@
-# NFS opeation tracer
+# NFS operation tracer
 
 Trace NFS operations on a server
 
